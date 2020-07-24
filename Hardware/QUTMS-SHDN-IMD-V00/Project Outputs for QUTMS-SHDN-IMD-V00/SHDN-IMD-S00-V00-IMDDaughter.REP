@@ -2,6 +2,86 @@
 FileName = SHDN-IMD-S00-V00-IMDDaughter.GBR
 AutoAperture = True
 *************************************************************
+Generating : Top Layer
+      File : SHDN-IMD-S00-V00-IMDDaughter.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D19
+    D26
+    D27
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : SHDN-IMD-S00-V00-IMDDaughter.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : SHDN-IMD-S00-V00-IMDDaughter.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D62
+    D63
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+*************************************************************
+
+*************************************************************
 Generating : Mechanical 1
       File : SHDN-IMD-S00-V00-IMDDaughter.GM1
 
@@ -10,6 +90,18 @@ Generating : Mechanical 1
 
 Used DCodes :
     D10
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : SHDN-IMD-S00-V00-IMDDaughter.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D72
+    D73
 *************************************************************
 
 *************************************************************
@@ -44,6 +136,7 @@ Used DCodes :
     D41
     D42
     D43
+    D44
 *************************************************************
 
 *************************************************************
@@ -87,85 +180,6 @@ Used DCodes :
     D41
     D42
     D43
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : SHDN-IMD-S00-V00-IMDDaughter.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : SHDN-IMD-S00-V00-IMDDaughter.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D61
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : SHDN-IMD-S00-V00-IMDDaughter.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D15
-    D24
-    D25
     D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
 *************************************************************
 

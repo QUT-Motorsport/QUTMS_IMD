@@ -1,4 +1,4 @@
-﻿[Design]
+[Design]
 Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
@@ -120,7 +120,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TTPVHYHW
 
 [Document6]
 DocumentPath=CellMonitor.SchLib
@@ -137,7 +137,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FOWBVRYM
 
 [Document7]
 DocumentPath=FFCConnectors.PcbLib
@@ -171,7 +171,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PMQZETJJ
 
 [Document9]
 DocumentPath=IDCConnectors.PcbLib
@@ -239,7 +239,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WYTIWMFD
 
 [Document13]
 DocumentPath=QUTMS_CrystalLibrary.PcbLib
@@ -273,7 +273,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JVMAAZUP
 
 [Document15]
 DocumentPath=QUTMS_DiodeLibrary.PcbLib
@@ -341,7 +341,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ZCEZNXQJ
 
 [Document19]
 DocumentPath=QUTMS_IsolatorLibrary.PcbLib
@@ -409,7 +409,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QKGTBYVP
 
 [Document23]
 DocumentPath=QUTMS_LEDLibrary.PcbLib
@@ -443,7 +443,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HWMRVBIF
 
 [Document25]
 DocumentPath=QUTMS_MicrofitLibrary.PcbLib
@@ -511,7 +511,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YMNZRAFD
 
 [Document29]
 DocumentPath=QUTMS_PCBLibrary.PcbLib
@@ -545,7 +545,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XMFVKUQS
 
 [Document31]
 DocumentPath=QUTMS_STM32Library.PcbLib
@@ -579,7 +579,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QQAKGVDZ
 
 [Document33]
 DocumentPath=QUTMS_SwitchLibrary.PcbLib
@@ -613,7 +613,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OKNHDQJO
 
 [Document35]
 DocumentPath=QUTMS-BMS-V00.SCHLIB
@@ -630,7 +630,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LFBCJQFU
 
 [Document36]
 DocumentPath=StandardCapacitors.PcbLib
@@ -664,7 +664,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WFWZTUBU
 
 [Document38]
 DocumentPath=StandardResistors.PcbLib
@@ -698,7 +698,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FEIOKSWG
 
 [Document40]
 DocumentPath=StandardTest.PcbLib
@@ -732,7 +732,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ZUGZGKQV
 
 [Document42]
 DocumentPath=SHDN-IMD-S03-V00-Shutdown.SchDoc
@@ -955,6 +955,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document55]
+DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\IMDdrillfiles.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.DRR
 DItemRevisionGUID=
@@ -976,34 +993,38 @@ DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.GM1
+DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.GTL
+DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.GTO
+DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.GTS
+DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.LDP
+DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.REP
+DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.RUL
+DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.REP
 DItemRevisionGUID=
 
 [GeneratedDocument13]
+DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument14]
 DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.TXT
 DItemRevisionGUID=
 
@@ -1020,7 +1041,7 @@ ConfigurationType=Source
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=\\qutprintgp01.qut.edu.au\students
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -1126,7 +1147,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=\\qutprintgp01.qut.edu.au\students
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -1182,11 +1203,23 @@ OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType9=PCBDrawing
+OutputName9=Draftsman
+OutputDocumentPath9=
+OutputVariantName9=[No Variations]
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType10=PDF3D
+OutputName10=PDF3D
+OutputDocumentPath10=
+OutputVariantName10=[No Variations]
+OutputDefault10=0
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=\\qutprintgp01.qut.edu.au\students
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -1208,7 +1241,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=\\qutprintgp01.qut.edu.au\students
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
@@ -1270,20 +1303,25 @@ OutputName10=Test Point Report
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
-OutputType11=Gerber
-OutputName11=Gerber Files
+OutputType11=IPC2581
+OutputName11=IPC-2581 Files
 OutputDocumentPath11=
-OutputVariantName11=[No Variations]
+OutputVariantName11=
 OutputDefault11=0
-Configuration11_Name1=ForceUpdateSettings
-Configuration11_Item1=False
-Configuration11_Name2=OutputConfigurationParameter1
-Configuration11_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973834~1,16777217~1,16842751~1,16973835~1,16973831~1,16908289~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=True|Sorted=False|Sorted=False
+OutputType12=Gerber
+OutputName12=Gerber Files
+OutputDocumentPath12=
+OutputVariantName12=[No Variations]
+OutputDefault12=0
+Configuration12_Name1=ForceUpdateSettings
+Configuration12_Item1=False
+Configuration12_Name2=OutputConfigurationParameter1
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973834~1,16777217~1,16842751~1,16973835~1,16973831~1,16908289~1,16973837~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=True|Sorted=False|Sorted=False
 
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=\\qutprintgp01.qut.edu.au\students
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -1320,7 +1358,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=\\qutprintgp01.qut.edu.au\students
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1500,7 +1538,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=\\qutprintgp01.qut.edu.au\students
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -1544,7 +1582,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=\\qutprintgp01.qut.edu.au\students
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -1576,36 +1614,26 @@ OutputName6=Export VRML
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=MBAExportPARASOLID
-OutputName7=Export PARASOLID
+OutputType7=Save As/Export PCB
+OutputName7=Save As/Export PCB
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
-OutputType8=MBAExportSTEP
-OutputName8=Export STEP
+OutputType8=Save As/Export Schematic
+OutputName8=Save As/Export Schematic
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
-OutputType9=Save As/Export PCB
-OutputName9=Save As/Export PCB
+OutputType9=Specctra Design PCB
+OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=Save As/Export Schematic
-OutputName10=Save As/Export Schematic
-OutputDocumentPath10=
-OutputVariantName10=
-OutputDefault10=0
-OutputType11=Specctra Design PCB
-OutputName11=Specctra Design PCB
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=\\qutprintgp01.qut.edu.au\students
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -1731,8 +1759,6 @@ Type114=1
 Type115=1
 Type116=1
 Type117=1
-Type118=1
-Type119=1
 
 [Difference Levels]
 Type1=1
@@ -1801,8 +1827,6 @@ Type63=1
 Type64=1
 Type65=1
 Type66=1
-Type67=1
-Type68=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1950,7 +1974,6 @@ L17=WNNNNNNNWNNNWWWWN
 [Annotate]
 SortOrder=3
 SortLocation=0
-ReplaceSubparts=0
 MatchParameter1=Comment
 MatchStrictly1=1
 MatchParameter2=Library Reference
@@ -1971,7 +1994,6 @@ NetClassSeparateForBusSections=0
 [LibraryUpdateOptions]
 SelectedOnly=1
 UpdateVariants=1
-UpdateToLatestRevision=1
 PartTypes=0
 FullReplace=1
 UpdateDesignatorLock=1
@@ -1990,7 +2012,6 @@ UpdateCurrentModels=1
 [DatabaseUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
-UpdateToLatestRevision=1
 PartTypes=0
 
 [Comparison Options]
