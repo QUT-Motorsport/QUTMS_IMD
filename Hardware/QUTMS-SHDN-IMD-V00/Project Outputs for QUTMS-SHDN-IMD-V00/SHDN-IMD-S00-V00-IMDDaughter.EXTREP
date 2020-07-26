@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: SHDN-IMD-S00-V00-IMDDaughter.GBR   10/07/2020  1:44:06 PM
+Gerber File Extension Report For: SHDN-IMD-S00-V00-IMDDaughter.GBR   24/07/2020  3:16:41 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -13,4 +13,5 @@ Layer Extension     Layer Description
 .GBS                Bottom Solder                           
 .GBO                Bottom Overlay                          
 .GM1                Mechanical 1                            
+.GKO                Keep-Out Layer                          
 ------------------------------------------------------------------------------------------
