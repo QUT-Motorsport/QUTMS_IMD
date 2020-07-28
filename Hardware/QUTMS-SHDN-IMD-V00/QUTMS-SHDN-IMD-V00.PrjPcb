@@ -939,7 +939,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PGSSCGAS
 
 [Document54]
-DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\IMDGerber.Cam
+DocumentPath=IMDGerber.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -956,7 +956,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document55]
-DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\IMDdrillfiles.Cam
+DocumentPath=DrillFiles.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -973,58 +973,62 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.DRR
+DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\Design Rule Check - SHDN-IMD-S00-V00-IMDDaughter.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.EXTREP
+DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.GBL
+DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.GBO
+DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.GBS
+DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.GKO
+DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.GM1
+DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.GTL
+DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.GTO
+DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.GTS
+DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.LDP
+DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.REP
+DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.RUL
+DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.REP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
+DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument15]
 DocumentPath=Project Outputs for QUTMS-SHDN-IMD-V00\SHDN-IMD-S00-V00-IMDDaughter.TXT
 DItemRevisionGUID=
 
@@ -1041,7 +1045,7 @@ ConfigurationType=Source
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=\\QUTPRINTGP\students
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -1147,7 +1151,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=\\QUTPRINTGP\students
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -1219,7 +1223,7 @@ PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=\\QUTPRINTGP\students
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -1241,7 +1245,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=\\QUTPRINTGP\students
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
@@ -1321,7 +1325,7 @@ Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLaye
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=\\QUTPRINTGP\students
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -1358,7 +1362,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=\\QUTPRINTGP\students
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1538,7 +1542,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=\\QUTPRINTGP\students
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -1582,7 +1586,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=\\QUTPRINTGP\students
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -1633,7 +1637,7 @@ OutputDefault9=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=\\QUTPRINTGP\students
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
